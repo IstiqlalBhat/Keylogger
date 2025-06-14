@@ -1,7 +1,7 @@
 ````markdown
 # 🖥️ Windows Keylogger (DLL + Proxy EXE)
 
-A production-grade C++ keylogger designed for controlled, authorized penetration tests. It injects a low-level keyboard hook, writes keystrokes to a hidden log, periodically e-mails the encrypted log via libcurl’s SMTP API, then securely erases it.
+A C++ keylogger designed for controlled, authorized penetration tests. It injects a low-level keyboard hook, writes keystrokes to a hidden log, periodically e-mails the encrypted log via libcurl’s SMTP API, then securely erases it.
 
 ---
 
